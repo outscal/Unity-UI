@@ -4,4 +4,4 @@
     - Panel defines an area that will by default stretch to fit its parent RectTransform dimensions.
     - To insert a Panel, right click in the Scene Hierarchy and go to Create → UI → Panel.
     
-    ![UI_panel.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/263cfa9a-a118-4978-8cf8-dda664c517e7/UI_panel.png)
+    ![UI_panel.png](https://github.com/outscal/Unity-UI/blob/main/Images/UI_panel.png?raw=true)

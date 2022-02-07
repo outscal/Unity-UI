@@ -5,4 +5,4 @@
     - Whenever you add a UI component Canvas will also be added along with it.
     - To insert a Canvas, right click in the Scene Hierarchy and go to Create → UI → Canvas.
     
-    ![UI_2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f097ee02-8f90-4ed6-9d1a-a15cd7f96647/UI_2.png)
+    ![UI_2.png](https://github.com/outscal/Unity-UI/blob/main/Images/UI_2.png?raw=true)
